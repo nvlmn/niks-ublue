@@ -46,6 +46,7 @@ modules:
         - com.jgraph.drawio.desktop
         - org.videolan.VLC
         - com.google.Chrome
+        - com.microsoft.Edge
       remove:
         # - org.gnome.eog
 
