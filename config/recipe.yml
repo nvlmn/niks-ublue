@@ -47,6 +47,16 @@ modules:
         - org.videolan.VLC
         - com.google.Chrome
         - com.microsoft.Edge
+        - com.belmoussaoui.Authenticator
+        - io.gitlab.adhami3310.Impression
+        - org.gnome.Polari
+        - com.github.alexhuntley.Plots
+        - org.gnome.World.Secrets
+        - org.gnome.World.PikaBackup
+        - de.haeckerfelix.Fragments
+        - org.nickvision.tubeconverter
+        - com.github.tchx84.Flatseal
+        - org.libreoffice.LibreOffice
       remove:
         # - org.gnome.eog
 
